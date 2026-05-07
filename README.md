@@ -3,7 +3,7 @@ Interactive Excel Dashboard analyzing store sales, customer behavior, refunds, a
 
 
 This project is an end-to-end Excel Sales Dashboard built to analyze store performance, customer behavior, sales trends, refund patterns, and order status using raw transactional data.
-I used Excel Pivot Tables, Pivot Charts, Data Cleaning, and Business Analytics techniques to transform raw data into meaningful business insights for better decision-making.
+I used Excel Pivot Tables, Pivot Charts, Data Cleaning, and Business Analytics techniques to transform raw data into meaningful business insights for better decision-making. 
 
 🛠 Tools & Skills Used
 Microsoft Excel
